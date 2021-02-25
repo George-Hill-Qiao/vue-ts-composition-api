@@ -1371,8 +1371,8 @@
 
 "@vue/cli-plugin-babel@~5.0.0":
   version "5.0.0-alpha.5"
-  resolved "https://registry.npm.taobao.org/@vue/cli-plugin-babel/download/@vue/cli-plugin-babel-5.0.0-alpha.5.tgz#b19de56511c77c8756b426eaec435780b6967e62"
-  integrity sha1-sZ3lZRHHfIdWtCbq7ENXgLaWfmI=
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-babel/-/cli-plugin-babel-5.0.0-alpha.5.tgz#b19de56511c77c8756b426eaec435780b6967e62"
+  integrity sha512-JBfRadzs3a+eS/H1aIaSybgkBy3E7rAHVSEmRLEYs5/xMwI7V8pDxiq5xDmBxWwfPNsMZkwclUo5lR6QmEP/nA==
   dependencies:
     "@babel/core" "^7.12.16"
     "@vue/babel-preset-app" "^5.0.0-alpha.5"
@@ -1383,8 +1383,8 @@
 
 "@vue/cli-plugin-eslint@~5.0.0":
   version "5.0.0-alpha.5"
-  resolved "https://registry.npm.taobao.org/@vue/cli-plugin-eslint/download/@vue/cli-plugin-eslint-5.0.0-alpha.5.tgz#3c6ed35b6c09d03b1666c2772e33aeba4c757606"
-  integrity sha1-PG7TW2wJ0DsWZsJ3LjOuukx1dgY=
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-eslint/-/cli-plugin-eslint-5.0.0-alpha.5.tgz#3c6ed35b6c09d03b1666c2772e33aeba4c757606"
+  integrity sha512-7cHubGFdXoskZOXJWZRb3npQ6qDRpd1++lrMrn/nJcNUFgcmWStXFmOlDD5JeThuUaq93DoyS02YZ+JmpLdg0A==
   dependencies:
     "@vue/cli-shared-utils" "^5.0.0-alpha.5"
     eslint-webpack-plugin "2.4.3"
@@ -1395,15 +1395,15 @@
 
 "@vue/cli-plugin-router@^5.0.0-alpha.5", "@vue/cli-plugin-router@~5.0.0":
   version "5.0.0-alpha.5"
-  resolved "https://registry.npm.taobao.org/@vue/cli-plugin-router/download/@vue/cli-plugin-router-5.0.0-alpha.5.tgz?cache=0&sync_timestamp=1614085091495&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40vue%2Fcli-plugin-router%2Fdownload%2F%40vue%2Fcli-plugin-router-5.0.0-alpha.5.tgz#fcf8d6be01b320d19bd6ca3a78d7cdd3ebb7712c"
-  integrity sha1-/PjWvgGzINGb1so6eNfN0+u3cSw=
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-router/-/cli-plugin-router-5.0.0-alpha.5.tgz#fcf8d6be01b320d19bd6ca3a78d7cdd3ebb7712c"
+  integrity sha512-YvcfJjDLg4Bo1UJLXaDhhp8lj0sJexj5fAau08c9LtdzW4baqcgRIAXFusGHi3o2oqQDj674LbXuOFTMea5Flw==
   dependencies:
     "@vue/cli-shared-utils" "^5.0.0-alpha.5"
 
 "@vue/cli-plugin-typescript@~5.0.0":
   version "5.0.0-alpha.5"
-  resolved "https://registry.npm.taobao.org/@vue/cli-plugin-typescript/download/@vue/cli-plugin-typescript-5.0.0-alpha.5.tgz?cache=0&sync_timestamp=1614070715624&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40vue%2Fcli-plugin-typescript%2Fdownload%2F%40vue%2Fcli-plugin-typescript-5.0.0-alpha.5.tgz#46642d4bff65fed3ab1657eca236a02c7e69875b"
-  integrity sha1-RmQtS/9l/tOrFlfsojagLH5ph1s=
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-typescript/-/cli-plugin-typescript-5.0.0-alpha.5.tgz#46642d4bff65fed3ab1657eca236a02c7e69875b"
+  integrity sha512-QGB+Jq3XdRGuZ6GFdDqdreX9yJ2Pt03voUAikovRuSkPXrsXxgEjA7KKM9y+8zKRCJwnohs8WvoGTn7SJhNE6A==
   dependencies:
     "@types/webpack-env" "^1.15.2"
     "@vue/cli-shared-utils" "^5.0.0-alpha.5"
@@ -1418,13 +1418,13 @@
 
 "@vue/cli-plugin-vuex@^5.0.0-alpha.5", "@vue/cli-plugin-vuex@~5.0.0":
   version "5.0.0-alpha.5"
-  resolved "https://registry.npm.taobao.org/@vue/cli-plugin-vuex/download/@vue/cli-plugin-vuex-5.0.0-alpha.5.tgz?cache=0&sync_timestamp=1614085497434&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40vue%2Fcli-plugin-vuex%2Fdownload%2F%40vue%2Fcli-plugin-vuex-5.0.0-alpha.5.tgz#17b3528423f236312390e5fa8baf483feb84ca36"
-  integrity sha1-F7NShCPyNjEjkOX6i69IP+uEyjY=
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-vuex/-/cli-plugin-vuex-5.0.0-alpha.5.tgz#17b3528423f236312390e5fa8baf483feb84ca36"
+  integrity sha512-pKwA5ZI6nhAQPwJJt7I0TaSiNvY9Ecg3SgaGiYANcOQgzElDfYTfZBze46ua204/aedSqN9UenqH078EUf1ejg==
 
 "@vue/cli-service@~5.0.0":
   version "5.0.0-alpha.5"
-  resolved "https://registry.npm.taobao.org/@vue/cli-service/download/@vue/cli-service-5.0.0-alpha.5.tgz#df0394d3b90f49e9738817bc653fd87d196262e8"
-  integrity sha1-3wOU07kPSelziBe8ZT/YfRliYug=
+  resolved "https://registry.yarnpkg.com/@vue/cli-service/-/cli-service-5.0.0-alpha.5.tgz#df0394d3b90f49e9738817bc653fd87d196262e8"
+  integrity sha512-XiLGd8yDRjKbqFASMCncbRrCrdd9bNbFzrlJU2t3BQFKudr6Ofh+3J+MorT8TjAlIrdKZTYTQSPUiFCI68gP7w==
   dependencies:
     "@soda/friendly-errors-webpack-plugin" "^1.8.0"
     "@soda/get-current-script" "^1.0.2"
@@ -1516,6 +1516,13 @@
     vue-template-es2015-compiler "^1.9.0"
   optionalDependencies:
     prettier "^1.18.2"
+
+"@vue/composition-api@0.6.7":
+  version "0.6.7"
+  resolved "https://registry.yarnpkg.com/@vue/composition-api/-/composition-api-0.6.7.tgz#4481b547cea65dc936432f7efcf1a39f9c69420c"
+  integrity sha512-WAWEQK4urEsMNe3OyOp7VnMmegRZT2yRB3fDGLRXPMdfuo4+nM+uMEhUgDiUg9LFSXfLWhjwuFOJ2hnS2X7AUw==
+  dependencies:
+    tslib "^2.0.0"
 
 "@vue/eslint-config-standard@^6.0.0":
   version "6.0.0"
@@ -7829,7 +7836,7 @@ tslib@^1.8.1, tslib@^1.9.0:
   resolved "https://registry.npm.taobao.org/tslib/download/tslib-1.14.1.tgz?cache=0&sync_timestamp=1609887539329&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ftslib%2Fdownload%2Ftslib-1.14.1.tgz#cf2d38bdc34a134bcaf1091c41f6619e2f672d00"
   integrity sha1-zy04vcNKE0vK8QkcQfZhni9nLQA=
 
-tslib@^2.0.3:
+tslib@^2.0.0, tslib@^2.0.3:
   version "2.1.0"
   resolved "https://registry.npm.taobao.org/tslib/download/tslib-2.1.0.tgz?cache=0&sync_timestamp=1609887539329&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ftslib%2Fdownload%2Ftslib-2.1.0.tgz#da60860f1c2ecaa5703ab7d39bc05b6bf988b97a"
   integrity sha1-2mCGDxwuyqVwOrfTm8Bba/mIuXo=
